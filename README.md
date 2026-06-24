@@ -119,7 +119,7 @@ Integreate generates a full NestJS CRUD module for both `User` and `Post`, inclu
 
 - **Runtime:** Node.js / TypeScript
 - **Backend Framework:** NestJS
-- **ORM:** TypeORM
+- **ORM:** Prisma
 - **AI Layer:** Anthropic Claude API (semantic schema understanding)
 - **Queue:** BullMQ (async generation jobs)
 - **Frontend:** Next.js (cloud dashboard)
